@@ -278,8 +278,9 @@
 }
 
 .card__icon-button:focus-visible {
-  border: 2px solid var(--accent-color, #000);
   outline: none;
+  border: 2px solid var(--accent-color, #000);
+  transition: border 0.3s ease;
 }
 
 .card__icon-button:hover .core {
