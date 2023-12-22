@@ -166,7 +166,7 @@
   opacity: 0.5;
   color: var(--accent-color, #000);
   font-family: var(--accent-font, 'PressStart2P', fantasy);
-  font-weight: 400;;
+  font-weight: 400;
   font-size: 14px;
   font-style: normal;
   line-height: normal;
@@ -457,7 +457,7 @@ dialog[open] {
 }
 
 .perfectionism {
-  filter: sepia(100%); 
+  filter: sepia(100%);
 }
 
 .perfectionism:hover {
